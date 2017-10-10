@@ -1,11 +1,8 @@
-# Magisk Module Template
+# Blobs Forever
+Get the adorable blob emoji back on your smartphone running Android 8.0 or newer! Google may think it's time to move on, but we are not ready to say goodbye. This is tested and working on my Google Pixel. It should at least work on Pixel or Nexus devices, but I have not tested it on any other devices. Let me know if it works for you!
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+## Changes
+* 1.0 - Initial release
 
-### README.md
-
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+## XDA Thread
+* https://forum.xda-developers.com/apps/magisk/module-blobs-forever-blob-emoji-android-t3686479

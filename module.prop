@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=BlobsForever
+name=Blobs Forever
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=bdr9
+description=Get the blob emoji back!
 template=1400
